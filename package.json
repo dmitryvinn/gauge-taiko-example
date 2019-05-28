@@ -1,0 +1,10 @@
+{
+  "name": "gauge-taiko-example",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "gauge run /Users/dvinnik/personal/gauge-talk/gauge-taiko-example/specs"
+  },
+  "dependencies": {
+    "taiko": "^0.5.0"
+  }
+}
